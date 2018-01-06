@@ -1,3 +1,5 @@
+# Rearrange the files by deleting the digits 0-9
+
 import os
 def rename_files():
     #step1
